@@ -17,6 +17,7 @@ Favourite IDE in this order (convince me otherwise 🤞)
   
 My Interests:
 --------------------
+-  **Anything DevOps** 🥇
 -  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 -  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 -  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
